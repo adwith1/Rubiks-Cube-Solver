@@ -10,4 +10,4 @@ set of instructions.
 
 Link to Processing IDE: https://processing.org/download/
 
-Link to Video Simulation: 
+Link to Video Simulation: https://www.youtube.com/watch?v=z7aFKR6e6do 
