@@ -56,8 +56,8 @@ void setup() {
     }
   }
 
-  //set to complete 100 moves
-  for(int i = 0; i < 50; i++) {
+  //set to complete 120 moves
+  for(int i = 0; i < 60; i++) {
     int r = int(random(allMoves.length));
     Move mo = allMoves[r];
     sequence.add(mo);
